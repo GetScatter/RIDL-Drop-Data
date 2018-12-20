@@ -8,6 +8,7 @@ This repository exists for historical purposes.
 ## Airgrab
 
 These are all the accounts that airgrabbed.
+The snapshot was taken on September 1st at around 10:30am (UTC). The block was `14137177`.
 
 ## Voters
 
